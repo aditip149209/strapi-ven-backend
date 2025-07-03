@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_landing_page_components_card_infos",
+  "info": {
+    "displayName": "CardInfo"
+  },
+  "options": {},
+  "attributes": {
+    "card": {
+      "type": "component",
+      "component": "landing-page-components.cards",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

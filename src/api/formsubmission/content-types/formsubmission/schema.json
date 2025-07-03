@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "formsubmissions",
+  "info": {
+    "singularName": "formsubmission",
+    "pluralName": "formsubmissions",
+    "displayName": "formsubmission"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "emailid": {
+      "type": "email"
+    },
+    "phonenum": {
+      "type": "biginteger"
+    },
+    "message": {
+      "type": "text"
+    }
+  }
+}

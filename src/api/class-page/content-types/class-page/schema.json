@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "class_pages",
+  "info": {
+    "singularName": "class-page",
+    "pluralName": "class-pages",
+    "displayName": "classPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "classPage": {
+      "type": "dynamiczone",
+      "components": [
+        "landing-page-components.title",
+        "landing-page-components.subtitle",
+        "landing-page-components.card-info"
+      ]
+    }
+  }
+}

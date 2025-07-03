@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_landing_page_components_picturelists",
+  "info": {
+    "displayName": "picturelist"
+  },
+  "options": {},
+  "attributes": {
+    "picture": {
+      "type": "component",
+      "component": "landing-page-components.picture",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

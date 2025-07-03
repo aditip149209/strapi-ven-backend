@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "portfoliopages",
+  "info": {
+    "singularName": "portfoliopage",
+    "pluralName": "portfoliopages",
+    "displayName": "portfoliopage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "picturelist": {
+      "type": "dynamiczone",
+      "components": [
+        "landing-page-components.picturelist",
+        "landing-page-components.title"
+      ]
+    }
+  }
+}

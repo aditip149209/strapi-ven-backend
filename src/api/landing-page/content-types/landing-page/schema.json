@@ -1,0 +1,29 @@
+{
+  "kind": "singleType",
+  "collectionName": "landing_pages",
+  "info": {
+    "singularName": "landing-page",
+    "pluralName": "landing-pages",
+    "displayName": "landingPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "landingPage": {
+      "type": "dynamiczone",
+      "components": [
+        "landing-page-components.two-button-cta",
+        "landing-page-components.title",
+        "landing-page-components.subtitle",
+        "landing-page-components.picturelist",
+        "landing-page-components.picture",
+        "landing-page-components.header",
+        "landing-page-components.button",
+        "landing-page-components.cards",
+        "landing-page-components.card-info"
+      ]
+    }
+  }
+}

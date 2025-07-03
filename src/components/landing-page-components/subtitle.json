@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_landing_page_components_subtitles",
+  "info": {
+    "displayName": "Subtitle"
+  },
+  "options": {},
+  "attributes": {
+    "subtitle": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

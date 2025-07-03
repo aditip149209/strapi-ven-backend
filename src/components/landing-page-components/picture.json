@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_landing_page_components_pictures",
+  "info": {
+    "displayName": "Picture"
+  },
+  "options": {},
+  "attributes": {
+    "imageurl": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

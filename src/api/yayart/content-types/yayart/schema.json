@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "yayarts",
+  "info": {
+    "singularName": "yayart",
+    "pluralName": "yayarts",
+    "displayName": "yayart"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nameofart": {
+      "type": "string"
+    },
+    "addedon": {
+      "type": "datetime"
+    },
+    "artworkimage": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

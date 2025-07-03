@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_landing_page_components_two_button_ctas",
+  "info": {
+    "displayName": "TwoButtonCTA"
+  },
+  "options": {},
+  "attributes": {
+    "FirstButton": {
+      "type": "component",
+      "component": "landing-page-components.button",
+      "repeatable": true
+    },
+    "SecondButton": {
+      "type": "component",
+      "component": "landing-page-components.button",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_landing_page_components_buttons",
+  "info": {
+    "displayName": "Button"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "color": {
+      "type": "enumeration",
+      "enum": [
+        "brownlight",
+        "brownfore",
+        "textmain",
+        "cardlight",
+        "textdark",
+        "coffee"
+      ]
+    },
+    "link": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
