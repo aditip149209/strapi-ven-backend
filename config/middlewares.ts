@@ -16,7 +16,7 @@ module.exports = [
   {
     name: 'strapi::cors',
     config: {
-      origin: ['https://strapi-ven-backend.onrender.com'], // Or ['*'] for testing only
+      origin: ['https://ven-frontend.vercel.app/'], // Or ['*'] for testing only
       credentials: true,
     },
   },
